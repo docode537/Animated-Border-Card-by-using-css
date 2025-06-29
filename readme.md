@@ -12,7 +12,7 @@ Watch the step-by-step video tutorial here:
 
 ## 📝 Read Blog Post
 Read the full breakdown and explanation:  
-[📰 Read Blog](#)
+[📰 Read Blog](https://docode.co.in/post/animated-border-card-with-conic-gradient-using-pure-css)
 
 ---
 
